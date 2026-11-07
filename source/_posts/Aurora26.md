@@ -1107,7 +1107,7 @@ Aurora{n1c3-gr337-fr0m-4ur0r4-c7f-r0b0t}
 别到处传哈🤫
 ```
 ## restaurant-master
-![[restaurant.png]]
+![restaurant.png](/img/restaurant.png)
 可见有`Bute Street`字样，且开头为`77-61`末尾为'49-41'便可找到这条路
 最后看看周围有什么茶餐厅即可（附近都水料店23333）
 ## lsb_奶娃
